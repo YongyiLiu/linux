@@ -43,15 +43,10 @@ linux的学习笔记
    
         打包(多个文件合并为一个文件)：tar -cvf etc.tar 
         -c :打包选项
-        
         -v :显示打包进度
-        
         -f :使用档案文件
-        
       解包 tar -xvf 
-      
       压缩 $gzip demo.txt 
-      
       解压缩 gunzip bzip
       
 进程管理工具：
