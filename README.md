@@ -64,7 +64,7 @@ linux的学习笔记
   
 网络工具：
 
-     查询网络服务和端口：netstat  
+     查询网络服务和端口：netstat
      网络路由：$route -n
      DNS查询：host domain
      反向DNS查询: $host IP
